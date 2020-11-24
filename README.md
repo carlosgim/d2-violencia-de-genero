@@ -4,6 +4,8 @@
 
 This is your new Kedro project, which was generated using `Kedro 0.16.2` by running:
 
+Ejecucion
+
 ```
 kedro new
 ```
